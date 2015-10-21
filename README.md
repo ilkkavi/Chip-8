@@ -1,2 +1,3 @@
 # Chip-8
-Chip 8 Emulator
+
+A simple Chip 8 Emulator written in C# using Winforms and XNA.
